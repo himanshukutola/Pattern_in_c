@@ -4,10 +4,10 @@ This project contains C programs that generate various patterns using loops and 
 FEATURES
 
 Various pattern types, such as:
-Hollow Square
-Right Triangle
-Inverted Triangle
-Diamond Pattern
+Hollow Square.
+Right Triangle.
+Inverted Triangle.
+Diamond Patterns.
 
 
 USAGE
